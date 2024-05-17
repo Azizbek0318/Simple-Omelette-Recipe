@@ -1,0 +1,26 @@
+.fon{
+    background-color: #fff7e5;
+}
+
+.card{
+    width: 400px;
+    height: 650px;
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 650px ;
+    margin-top: 100px;
+
+}
+img{
+    width: 360px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 25px;
+}
+h1{
+    padding-left: 25px;
+    
+}
+p{
+    padding: 20px;
+}
