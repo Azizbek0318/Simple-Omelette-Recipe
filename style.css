@@ -4,40 +4,38 @@
 
 .card{
     width: 610px;
-    height: 1500px;
     background-color: white;
     border-radius: 25px;
-    margin-left: 650px ;
-    margin-top: 100px;
+    padding: 30px;
     position: relative;
+    margin: 400px;
 }
 img{
-    width: 570px;
-    height: 350px;
-    padding: 30px;
-    border-radius: 30px;
+    width: 610px;
+    height: 320px;
+    border-radius: 25px;
+
 }
+    
+
 h1{
-    padding-left: 30px;
+    /* padding-left: 30px; */
     font-size: 40px;
-    margin-top: 1px;
-}
-p{
-    padding: 30px;
-    margin-top: 1px;
-}
-.p{
-    margin-top: 10px;
+    
 }
 .pre{
     display: block;
-    width: 570px;
+    width: 510px;
     height: 150px;
     background-color:rgb(242, 221, 237);
-    border-radius: 15px;
-    margin-left: 30px;
-
+    border-radius: 20px;
+    padding: 15px;
+    position: relative;
+    /* margin-left: 30px; */
 }
+/* .p{
+    padding: 30px;
+} */
 span{
     color: rgb(195, 145, 85);
 }
@@ -49,9 +47,9 @@ h3{
     margin-top: 15px;
     font-size: 20px;
 }
-.in{
+/* .in{
     margin-left: 30px;
-}
+} */
 h2{
     color: rgb(109, 76, 36);
 }
@@ -65,8 +63,13 @@ hr{
 }
 .ins{
     display: block;
-    margin-left: 30px;
+    /* margin-left: 30px; */
 }
-.ins,p{
-    margin-right: 10px;
-}
+/* .n{
+    padding: 30px;
+} */
+ table,hr{
+     width: 100%;
+ }
+
+
